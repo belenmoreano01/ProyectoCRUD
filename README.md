@@ -1,4 +1,6 @@
-# proyectoiw
+# Andrea Moreano
+# Proyecto Ingeniería Web
+# Vue JS PHP y MYSQL
 
 ## Project setup
 ```
